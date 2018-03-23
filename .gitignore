@@ -1,0 +1,7 @@
+.DS_Store
+/header.inc.php
+/.cache
+/.settings
+/.project
+/.vscode
+/nbproject
